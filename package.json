@@ -43,7 +43,7 @@
 		"globals": "^16.1.0",
 		"jsdom": "^26.0.0",
 		"lucide-svelte": "^0.509.0",
-		"mdsvex": "^0.12.3",
+		"mdsvex": "^0.12.6",
 		"mode-watcher": "^1.0.6",
 		"paneforge": "^0.0.6",
 		"prettier": "^3.4.2",
