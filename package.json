@@ -32,7 +32,7 @@
 		"@testing-library/svelte": "^5.2.4",
 		"@types/node": "^22.15.21",
 		"autoprefixer": "^10.4.20",
-		"bits-ui": "^1.5.2",
+		"bits-ui": "^2.6.0",
 		"clsx": "^2.1.1",
 		"cmdk-sv": "^0.0.19",
 		"cssnano": "^7.0.7",
