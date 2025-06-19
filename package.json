@@ -69,7 +69,7 @@
 	"dependencies": {
 		"@prisma/client": "^6.10.0",
 		"agora-rtc-sdk-ng": "^4.23.3",
-		"agora-token": "^2.0.4",
+		"agora-token": "^2.0.5",
 		"better-auth": "^1.2.8",
 		"class-variance-authority": "^0.7.0"
 	}
