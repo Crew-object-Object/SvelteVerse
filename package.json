@@ -67,7 +67,7 @@
 		"zod": "^3.25.23"
 	},
 	"dependencies": {
-		"@prisma/client": "^6.10.0",
+		"@prisma/client": "^6.10.1",
 		"agora-rtc-sdk-ng": "^4.23.3",
 		"agora-token": "^2.0.4",
 		"better-auth": "^1.2.8",
