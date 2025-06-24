@@ -64,7 +64,7 @@
 		"vaul-svelte": "^0.3.2",
 		"vite": "^6.3.5",
 		"vitest": "^3.2.4",
-		"zod": "^3.25.23"
+		"zod": "^3.25.67"
 	},
 	"dependencies": {
 		"@prisma/client": "^6.10.0",
